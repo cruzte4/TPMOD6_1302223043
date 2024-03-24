@@ -1,0 +1,14 @@
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\bin\Debug\net8.0\TPModul6_1302223043.exe
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\bin\Debug\net8.0\TPModul6_1302223043.deps.json
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\bin\Debug\net8.0\TPModul6_1302223043.runtimeconfig.json
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\bin\Debug\net8.0\TPModul6_1302223043.dll
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\bin\Debug\net8.0\TPModul6_1302223043.pdb
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\TPModul6_1302223043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\TPModul6_1302223043.AssemblyInfoInputs.cache
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\TPModul6_1302223043.AssemblyInfo.cs
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\TPModul6_1302223043.csproj.CoreCompileInputs.cache
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\TPModul6_1302223043.dll
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\refint\TPModul6_1302223043.dll
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\TPModul6_1302223043.pdb
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\TPModul6_1302223043.genruntimeconfig.cache
+C:\Users\hanaf\Downloads\Koding\C#\TPModul6_1302223043\TPModul6_1302223043\obj\Debug\net8.0\ref\TPModul6_1302223043.dll
